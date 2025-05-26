@@ -1,0 +1,51 @@
+Feature 1: Workout Streaks & Achievements System
+
+• Track consecutive days of workouts
+• Award virtual badges/achievements for:
+  - Distance milestones (e.g., first 5K, 10K, etc.)
+  - Workout frequency (e.g., 7-day streak, 30-day streak)
+  - Personal bests (e.g., fastest mile, longest workout)
+  - Social engagement (e.g., first shared post, 10 community interactions)
+• Display achievements on user profile
+
+Difficulty: Medium (requires new database tables, achievement logic, and UI components)
+
+Task Breakdown:
+
+- Design schema for storing user workout history & achievements — 3 SP — High Priority — Assigned to: Alexis
+- Build backend logic to track consecutive workout days — 3 SP — High Priority — Assigned to: Neayla
+- Create badge logic for distance milestones (5K, 10K, etc.) — 2 SP — Medium Priority — Assigned to: Alexis
+- Create badge logic for workout frequency (7-day, 30-day streaks) — 2 SP — Medium Priority — Assigned to: Alexis
+- Create badge logic for personal bests (fastest mile, longest run) — 2 SP — Medium Priority — Assigned to: Alexis
+- Track social engagement (shared post, 10 interactions) — 2 SP — Medium Priority — Assigned to: Alexis
+- Design user profile UI to display achievements — 3 SP — High Priority — Assigned to: Neayla
+- Implement frontend components for badge display — 2 SP — High Priority — Assigned to: Neayla
+- Integrate frontend with backend APIs for streak/badge updates — 3 SP — High Priority — Assigned to: Neayla
+- Unit test badge logic - 2 SP - Medium Priority - Assigned to: Alexis
+- Unit test workout streak logic - 2 SP - Medium Priority - Assigned to: Neayla
+
+
+
+
+Feature 2: Nutrition Integration System
+
+• Track daily nutrition and correlate with workout performance
+• Log meals and track macronutrients
+• Track daily calorie goals
+• Monitor water intake
+• Track pre/post workout nutrition timing
+• Analyze performance based on nutrition patterns
+
+Difficulty: Hard (requires nutrition database integration, analytics implementation, and UI components for logging and visualization)
+
+Task Breakdown:
+
+- Design nutrition and meal logging database schema — 3 SP — High Priority — Assigned to: Stanley
+- Build backend logic to log meals and nutrients — 3 SP — High Priority — Assigned to: Diego
+- Create UI for daily meal logging and macronutrient input — 2 SP — Medium Priority — Assigned to: Diego
+- Add functionality for setting and tracking calorie goals — 2 SP — Medium Priority — Assigned to: Diego
+- Implement water intake monitoring system — 2 SP — Medium Priority — Assigned to: Stanley
+- Build analytics feature to correlate nutrition with performance — 3 SP — High Priority — Assigned to: Stanley
+- Integrate frontend UI with backend nutrition tracking APIs — 3 SP — High Priority — Assigned to: Stanley
+- Write unit tests for nutrition backend logic — 2 SP — Medium Priority — Assigned to: Stanley
+- Write unit tests for frontend meal logging and UI interactions — 2 SP — Medium Priority — Assigned to: Diego

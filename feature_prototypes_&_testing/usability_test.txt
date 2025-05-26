@@ -1,0 +1,205 @@
+Usability Test Plan – Workout Streaks & Achievements System (Paper Mockup)
+
+Introduction
+
+Purpose:
+This usability test aims to evaluate the clarity and effectiveness of the Workout Streaks & Achievements System using non-interactive paper/digital mockups created in Canva. We’re specifically testing how intuitive the layout and visual cues are when users attempt to understand and interact with features like workout streak tracking, milestone achievements, and profile-based progress displays.
+
+Objectives:
+
+- Assess whether users can identify key parts of the interface such as the workout streak tracker, achievements, and logging functionality.
+- Observe how users interpret progress indicators and badges from static mockups.
+- Evaluate the effectiveness of visual hierarchy and layout in communicating functionality and motivation.
+- Gather user feedback on visual appeal and clarity of feature communication.
+
+Testing Environment:
+This test will be conducted in person or over video call using screen share. Participants will be shown static images of the mockups and asked to “talk through” how they would interact with the app if it were functional. A facilitator will guide them through scenarios and tasks.
+
+Participant Criteria:
+
+Ages 18–30
+Regular users of fitness or wellness apps (2+ workouts/week)
+Familiarity with basic app interfaces (e.g., logging workouts, viewing profile info)
+
+Tasks (Based on Paper/Static Mockup)
+- Find the Workout Streak Tracker
+“Looking at this mockup, where would you go to check how many days in a row you’ve worked out?”
+(Prompt: Ask the user to point out the calendar and ‘3 days in a row’ badge.)
+
+- Interpret the Progress Toward a Goal
+“Can you tell how close you are to reaching your next achievement?”
+(Prompt: Look for the ‘30 Day Streak’ section and the 3/30 indicator.)
+
+- Understand an Achievement Badge
+“What does this badge (e.g., ‘5K’ or ‘3 Day Streak’) mean to you? What do you think triggered it?”
+(Prompt: Ask what kind of behavior might have earned that achievement.)
+
+- Imagine Logging a Workout
+“If this were a working app, how do you think you’d log a new workout? What would you expect to happen after logging?”
+(Prompt: Encourage users to point out where a logging option might appear or describe what feedback they’d expect.)
+
+- Find Your Profile and Achievements Overview
+“If you wanted to see a summary of all your badges and achievements, where would you go?”
+(Prompt: Guide them to interpret the ‘Profile’ and ‘Achievements’ sections in the mockup.)
+
+- Describe Your Motivation
+“Looking at this screen, how motivated would you feel to keep working out? What stands out to you visually or emotionally?”
+(Prompt: Get feedback on the visual design, encouragement elements, or progress tracking.)
+
+Usability Test Results – Workout Streaks & Achievements System:
+
+Participant Information:
+Participant ID: 002 (my sister)
+Age: 18
+Fitness App Usage: Uses an Apple watch and Apple workout app with a similar functionality of our app
+
+Interaction Notes:
+Task 1 – Find the Workout Streak Tracker
+Observed: The Participant immediately spotted the “Workout Streak” section and pointed out the calendar row (M T W T F S S). Identified “3 days in a row” correctly but asked if the days lit up for each workout.
+
+Task 2 – Interpret Progress Toward a Goal
+Observed: The participant found the “30 Day Streak” with the 3/30 indicator easily. They understood it as “3 out of 30 days completed” but noted no label making that explicit.
+
+Task 3 – Understand an Achievement Badge
+Observed: The Participant interpreted the “3 Day Streak!” and “5K” badges correctly. Thought the badges looked motivating but wondered how one would know how they were earned without tapping for more info.
+
+Task 4 – Imagine Logging a Workout
+Observed: The Participant assumed there would be a “+” button or a "Log Workout" on the home screen. Noted that it’s not visible in the profile mockup and suggested it should be easier to access from all views.
+
+Task 5 – Find Profile and Achievements Overview
+Observed: The Participant correctly identified the “Profile” label and associated the badges under "Achievements" as their summary. Wanted to tap on each badge for more details (e.g., date earned, how it was triggered).
+
+Task 6 – Describe Your Motivation
+Observed: The Participant found the layout “friendly and simple.” Liked the badges and streak visual (“3/30” was seen as progress fuel). They said seeing a near-finished streak would encourage them to keep going.
+
+Participant Feedback:
+“This part (3/30) makes me want to complete the streak—but it should say ‘days’ or something to be clearer.”
+“I love seeing badges—it’s like collecting trophies. But I wish I could see what each badge meant.”
+“I’d expect a big plus sign or some button to log a workout. It should be obvious.”
+“I like the look—it feels motivating without being too pushy.”
+
+Usability Issues, Hypotheses & Proposed FixesParticipant Quotes:
+“If I miss a day, does this reset? I wish that was shown.”
+“I’d love to tap this and see how I got the badge, or how to get it again."
+“I see the streak, and it makes me want to keep it up, it’s like Duolingo with the flames.”
+
+Issue:
+3/30 indicator lacks context
+
+Hypothesis: 
+Users may not realize it refers to streak progress
+
+Suggested Fix:
+Add a label “3 of 30 Days Completed.” 
+
+Issue:
+Lack of workout logging access on profile screen
+
+Hypothesis:
+Users expect to log workouts from anywhere, not just a central page
+
+Suggested Fix:
+Add a fixed-position “Log Workout” button/icon at the top or bottom of the screen
+
+Issue:
+Achievement section lacks visual emphasis
+
+Hypothesis:
+The badges and streaks blend into the background due to similar color tones and position
+
+Suggested Fix:
+Use higher contrast colors or a card-style layout to separate achievements from the rest of the profile; consider moving achievements higher on the page to increase visibility
+
+
+
+
+
+
+
+Usability Test: Nutrition Integration System
+
+Introduction: 
+
+We are making a usability test for our Nutrition Integration System prototype. The goal is to test how easy and intuitive is for the user to log meals, set nutrition goals, and track calorie/water intake. We asked participants to complete realistic tasks using the prototype while thinking aloud and sharing any confusion or suggestions they have.
+
+
+Participant 1: (My girlfriend)
+
+Persona: Casual health-conscious user who tracks calories and water intake for fitness goals.
+
+Tasks: 
+
+1. You’ve just eaten lunch. Try logging your meal in the app.
+2. You’re updating your calorie goal. Adjust your daily calorie target in the app.
+
+Notes: 
+
+- She navigated quickly and understood what each button does inside the app.
+- She said that the layout “makes sense and is simple but understandable.”
+- On the "Set Goals" screen, she paused and asked, “Wait, is this calories? It doesn’t say ‘kcal’ anywhere.”
+
+Feedback:
+
+Ease: “Logging meals and water was easy. No guessing.”
+
+Confusion: “The calorie goal part needs a label like ‘kcal’ or something.”
+
+Improvement Suggestion: “Maybe add a little label below the input saying ‘kcal per day’ so it’s clear.”
+
+
+Participant 2: (my brother)
+
+Persona: new user to nutrition tracking who’s using the app for the first time to manage health during finals.
+
+Tasks:
+
+1. You want to track how much water you’ve drunk so far today. Try updating it in the app.
+2. You just ate dinner. Log what you ate and the type of meal.
+3. Set your macro goals to: Protein 30%, Carbs 40%, Fats 30%.
+
+Notes:
+
+- At first, the participant wasn’t sure how to interact with the water tracker (“Do I tap the bar or the plus sign?”).
+- On the “Add Meal” screen, the participant expected macros to adjust as they selected different meals, but it didn’t change (static chart).
+- No clear error but paused a bit when using the sliders for macros — unsure if the numbers auto-saved or needed confirmation.
+
+
+Feedback:
+
+Ease: “Mostly easy to figure out, especially the meal logging.”
+
+Confusion: “Wasn’t sure if the macro slider saved automatically or not.”
+
+Improvement Suggestion: “Add a little label near the water tracker and maybe numbers next to each slider.”
+
+
+Results:
+
+Issue 1: Lack of unit label under calorie input.
+
+ Why It Happened: No indication that it’s “kcal.”
+
+ Suggested Fix: Add label “(kcal per day)” below input.
+
+
+Issue 2: Water trackers unclear.
+
+ Why It Happened: No text label; unclear interaction.
+
+ Suggested Fix: Add text: “Tap + or – to adjust cups.”
+
+
+Issue 3: Macro sliders unclear.
+
+Why It Happened: No confirmation or live percentage.
+
+Suggested Fix: Add % display and confirm that save applies them.
+
+
+Issue 4: Static pie chart confused users.
+
+ Why It Happened: Expectation of live updates
+
+ Suggested Fix: Add note: “Auto-updates after saving meal”
+
+
